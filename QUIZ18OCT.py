@@ -11,5 +11,8 @@ mini_database = [
 ]
 
 for person in list(mini_database):
-    if 'Mike' in person.values():
+    if 'VIVEK' in person.values():
         print('Mike is here')
+    else:
+        print("there is no Vivek here")
+
